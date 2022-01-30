@@ -27,6 +27,6 @@ Here you can find problems and their solution
 22 | Fun with Even Subarray | Medium |[Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Codeforces/B/FunwithEvenSubarrays.py)|Codeforces
 23 | GCD Arrays | Medium | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Codeforces/B/GCDArrays.py)|Codeforces
 24 | Make AP | Medium | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Codeforces/B/MakeAP.py)|Codeforces
-25 | Minor Reduction | Medium | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Codeforces/B/MinorReduction.py)|Coddeforces
+25 | Minor Reduction | Medium | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Codeforces/B/MinorReduction.py)|Codeforces
 26 | Not Sitting | Medium | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Codeforces/B/NotSitting.py)|Codeforces
 27 | Division By Two And Permutation | Medium | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Codeforces/C/DivisionByTwoAndPermutation.py)|Codeforces
