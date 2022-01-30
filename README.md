@@ -31,7 +31,7 @@ Here you can find problems and their solution
 26 | Not Sitting | Medium | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Codeforces/B/NotSitting.py)|Codeforces
 27 | Division By Two And Permutation | Medium | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Codeforces/C/DivisionByTwoAndPermutation.py)|Codeforces
 28 | Not Overflow | Easy | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Atcoder/Not%20Overflow.py)|Atcoder
-28 | Matrix Transposition | Easy | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Atcoder/Matrix%20Transposition.py)|Atcoder
-28 | kasaka | Medium | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Atcoder/kasaka.py)|Atcoder
-28 | LR insertion | Medium | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Atcoder/LR%20insertion.py)|Atcoder
+29 | Matrix Transposition | Easy | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Atcoder/Matrix%20Transposition.py)|Atcoder
+30 | kasaka | Medium | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Atcoder/kasaka.py)|Atcoder
+31 | LR insertion | Medium | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Atcoder/LR%20insertion.py)|Atcoder
 
