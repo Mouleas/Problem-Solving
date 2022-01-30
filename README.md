@@ -1,5 +1,5 @@
 # Problem-Solving
-### Question Link in the solution file itself
+### Find the appropriate link for the question in solution link
 
 \# | Title | Difficulty | Solution | Platform
 ---|---|---|---|---
