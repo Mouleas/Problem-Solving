@@ -1,5 +1,5 @@
 # Problem-Solving
-### Find the appropriate link for the question in solution link
+#### Click on the solution of any particular problem to see the appropriate link for the question
 
 \# | Title | Difficulty | Solution | Platform
 ---|---|---|---|---
