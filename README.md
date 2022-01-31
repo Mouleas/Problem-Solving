@@ -34,4 +34,5 @@
 29 | Matrix Transposition | Easy | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Atcoder/Matrix%20Transposition.py)|Atcoder
 30 | kasaka | Medium | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Atcoder/kasaka.py)|Atcoder
 31 | LR insertion | Medium | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Atcoder/LR%20insertion.py)|Atcoder
+32 | ABC | Easy | [Solution](https://github.com/M0u1ea5/Problem-Solving/tree/main/Codeforces/A)|Codeforces
 
