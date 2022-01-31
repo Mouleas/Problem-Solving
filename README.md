@@ -36,3 +36,6 @@
 31 | LR insertion | Medium | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Atcoder/LR%20insertion.py)|Atcoder
 32 | ABC | Easy | [Solution](https://github.com/M0u1ea5/Problem-Solving/tree/main/Codeforces/A)|Codeforces
 33 | Roof Construction | Medium | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Codeforces/B/Roof%20Construction.py)|Codeforces
+34 | Div.7 | Easy | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Codeforces/A/Div.%207.py)|Codeforces
+35 | Minority | Easy | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Codeforces/B/Minority.py)|Codeforces
+36 | Kill the monster | Medium | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Codeforces/C/Kill%20the%20Monster.py)|Codeforces
