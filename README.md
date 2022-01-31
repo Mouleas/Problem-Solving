@@ -35,4 +35,4 @@
 30 | kasaka | Medium | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Atcoder/kasaka.py)|Atcoder
 31 | LR insertion | Medium | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Atcoder/LR%20insertion.py)|Atcoder
 32 | ABC | Easy | [Solution](https://github.com/M0u1ea5/Problem-Solving/tree/main/Codeforces/A)|Codeforces
-
+33 | Roof Construction | Medium | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Codeforces/B/Roof%20Construction.py)|Codeforces
