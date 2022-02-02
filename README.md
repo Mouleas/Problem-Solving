@@ -39,3 +39,6 @@
 34 | Div.7 | Easy | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Codeforces/A/Div.%207.py)|Codeforces
 35 | Minority | Easy | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Codeforces/B/Minority.py)|Codeforces
 36 | Kill the monster | Medium | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/Codeforces/C/Kill%20the%20Monster.py)|Codeforces
+37 | Avoid Contact | Easy | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/CodeChef/Starters/Avoid%20Contact.py)|Codechef
+38 |Yet Another Constructive Problem|Medium|[Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/CodeChef/Starters/Yet%20Another%20Constructive%20Problem.py)|Codechef
+39 | Anti Palindrome | Medium |[Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/CodeChef/Starters/Anti%20Palindrome.py)|Codechef
