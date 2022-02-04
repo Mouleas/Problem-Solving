@@ -42,3 +42,5 @@
 37 | Avoid Contact | Easy | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/CodeChef/Starters/Avoid%20Contact.py)|Codechef
 38 |Yet Another Constructive Problem|Medium|[Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/CodeChef/Starters/Yet%20Another%20Constructive%20Problem.py)|Codechef
 39 | Anti Palindrome | Medium |[Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/CodeChef/Starters/Anti%20Palindrome.py)|Codechef
+40 | Chef and Mutable Strings | Easy | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/CodeChef/Others/Chef%20and%20Mutable%20Strings.py)|Codechef
+41 | Irresponsible Chef and his Problem | Medium | [Solution](https://github.com/M0u1ea5/Problem-Solving/blob/main/CodeChef/Others/Irresponsible%20Chef%20and%20his%20Problem.py)|Codechef 
